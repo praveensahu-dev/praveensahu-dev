@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning react, JavaScript, node<br><br>👨‍💻 visit my portfolio at https://praveensahu.vercel.app<br><br>💬 Ask me about web development<br><br>📫  reach me praveensahu.work@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1FyX4CozHpul9rHvahUrJzEtnmUYcTObz/view
+🌱 I’m currently learning react, JavaScript, node<br><br>👨‍💻 visit my portfolio at https://praveensahu.vercel.app<br><br>💬 Ask me about web development<br><br>📫  reach me praveensahu.work@gmail.com<br><br>📄 Know about my experiences [https://drive.google.com/file/d/1FyX4CozHpul9rHvahUrJzEtnmUYcTObz/view](https://drive.google.com/file/d/18WQ6iWkuFUGyQS124hu0HI1_J23w4X0r/view?usp=sharing)
 
 
 ## 🌐 Socials:
