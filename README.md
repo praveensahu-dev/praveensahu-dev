@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning MERN Stack<br><br>👨‍💻 visit my portfolio at https://praveensahu.in<br><br>💬 Ask me about web development<br><br>📫  reach me praveensahu.work@gmail.com<br><br>📄 Know about my experiences: [https://drive.google.com/file/d/1lYDhH_AtUDscKkXxkRWBiKbcgsae3tow/view?usp=sharing](https://drive.google.com/file/d/1WcXbeOHmS8DQO2s5i5shkBOUSrFdgXzt/view?usp=sharing)
+🌱 I’m currently working on AI Agents<br><br>👨‍💻 visit my portfolio at https://praveensahu.in<br><br>💬 Ask me about web development<br><br>📫  reach me praveensahu.work@gmail.com<br><br>📄 Know about my experiences: [https://drive.google.com/file/d/1lYDhH_AtUDscKkXxkRWBiKbcgsae3tow/view?usp=sharing](https://drive.google.com/file/d/1WcXbeOHmS8DQO2s5i5shkBOUSrFdgXzt/view?usp=sharing)
 
 
 ## 🌐 Socials:
