@@ -4,7 +4,7 @@
 👨‍💻 Portfolio: https://praveensahu.in<br><br>
 💬 Ask me about React, Next.js, Node.js, AI Agents, LLM Security, AppSec<br><br>
 📫 Reach me: praveensahu.work@gmail.com<br><br>
-📄 Resume: [View Here](https://drive.google.com/file/d/1AN0o0dDJ8dQgxRoVnAcmZ6yj5CcN99Ko/view?usp=sharing)
+📄 Resume: [View Here](https://drive.google.com/file/d/1qlQlSWOX7XHcJZi017CMPJ5MiSkfEKJj/view?usp=sharing)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praveensahu-dev)
